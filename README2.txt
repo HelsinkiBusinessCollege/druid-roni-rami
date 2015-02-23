@@ -1,1 +1,6 @@
 rhghnoögnhwrogjknkgrgjbjspwjri
+
+Jaska
+Oli
+Kova
+Jätkä
