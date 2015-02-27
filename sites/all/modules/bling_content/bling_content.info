@@ -1,0 +1,7 @@
+name = bling content
+description = bling content
+core = 7.x
+package = Features
+version = 7.x-1.0
+project = bling_content
+features[features_api][] = api:2
